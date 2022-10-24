@@ -1,6 +1,9 @@
 
 > Open this page at [https://cantonsen.github.io/spill-fasit--high-low/](https://cantonsen.github.io/spill-fasit--high-low/)
 
+Dette er samme prosjekt som https://github.com/cantonsen/001---spill---hoyere-eller-lavere
+Løsningen ble laget i løpet av programmeringsøkten med klassen, hvor de ulike elementene ble forklart.
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
